@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "The Silence of the Lambs",
+            "Year": "1991",
+            "imdbID": "tt0102926",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Silence",
+            "Year": "2016",
+            "imdbID": "tt0490215",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dead Silence",
+            "Year": "2007",
+            "imdbID": "tt0455760",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyNDQwMTQ3OV5BMl5BanBnXkFtZTcwMTY5MzI0MQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Silence",
+            "Year": "2019",
+            "imdbID": "tt7315484",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmZlOGZkMjMtZDc4Ny00ZTQ1LWFmYTQtOThlY2JjYjg1NGQyXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Silence",
+            "Year": "1963",
+            "imdbID": "tt0057611",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjQyZWRlYjctZDRlZS00MjI1LTg2M2EtODEzYWNlNGUxZjkyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Great Silence",
+            "Year": "1968",
+            "imdbID": "tt0063032",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3YWRiYjUtYzFlNi00NjU3LWE1YjctMTI1MTZmZmYxMDdhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Look of Silence",
+            "Year": "2014",
+            "imdbID": "tt3521134",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOTMwMjI4MjQ3MF5BMl5BanBnXkFtZTgwMjkwOTM2NTE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "The Silence of Swastika",
+            "Year": "2021",
+            "imdbID": "tt16747572",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOGFmMjU1ZjUtZTJlMy00MjBiLTk3NmUtOTZmMGQ3NTQzNGY2XkEyXkFqcGdeQXVyMjIzMjkyMzg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Lorna's Silence",
+            "Year": "2008",
+            "imdbID": "tt1186369",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjI2MTk5NF5BMl5BanBnXkFtZTcwNzcxMjU2Mg@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Code of Silence",
+            "Year": "1985",
+            "imdbID": "tt0088936",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGIwOWUyM2MtNWE1Yy00NWNjLThhZDYtZGZjZjkyNWE0MmFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+        }
+    ],
+    "totalResults": "1805",
+    "Response": "True"
+}

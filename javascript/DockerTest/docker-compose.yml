@@ -1,0 +1,21 @@
+version: '25.0.3'
+services:
+  chanchito:
+    build: .
+    ports:
+      - "3000:3000"
+    links:
+      - monguito
+  monguito:
+    image: mongo
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=elmer
+      - MONGO_INITDB_ROOT_PASSWORD=pocho
+    volumes:
+      - mongo-data:/data/db
+      # mysql -> /var/lib/mysql
+      # postgresql -> /var/lib/postgresql/data
+volumes:
+  mongo-data:
